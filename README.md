@@ -20,3 +20,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-191a1c?style=for-the-badge&logo=Telegram)](https://t.me/Beer_Bear)
 [![Instagram](https://img.shields.io/badge/Instagram-191a1c?style=for-the-badge&logo=Instagram)](https://www.instagram.com/n1kko_00)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeerBear0&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeerBear0&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
