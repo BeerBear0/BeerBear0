@@ -13,5 +13,10 @@
 ![Webpack](https://img.shields.io/badge/Webpack-191a1c?style=for-the-badge&logo=Webpack)
 ![Mongodb](https://img.shields.io/badge/Mongodb-191a1c?style=for-the-badge&logo=Mongodb)
 ![Node.js](https://img.shields.io/badge/Node.js-191a1c?style=for-the-badge&logo=Node.js)
-![]
+
+#### Контакты 
+
+[![VK](https://img.shields.io/badge/VK-191a1c?style=for-the-badge&logo=VK)](https://vk.com/im?peers=36056993_c64_253561357)
+[![Telegram](https://img.shields.io/badge/Telegram-191a1c?style=for-the-badge&logo=Telegram)](https://t.me/Beer_Bear)
+[![Instagram](https://img.shields.io/badge/Instagram-191a1c?style=for-the-badge&logo=Instagram)](https://www.instagram.com/n1kko_00)
 
