@@ -5,20 +5,20 @@
 
 ### Мой стек:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F4F1F1?style=for-the-badge&logo=JavaScript)
-![HTML](https://img.shields.io/badge/HTML-F4F1F1?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/CSS3-F4F1F1?style=for-the-badge&logo=CSS3)
-![React](https://img.shields.io/badge/React-F4F1F1?style=for-the-badge&logo=React)
-![Git](https://img.shields.io/badge/Git-F4F1F1?style=for-the-badge&logo=Git)
-![Webpack](https://img.shields.io/badge/Webpack-F4F1F1?style=for-the-badge&logo=Webpack)
-![Mongodb](https://img.shields.io/badge/Mongodb-F4F1F1?style=for-the-badge&logo=Mongodb)
-![Node.js](https://img.shields.io/badge/Node.js-F4F1F1?style=for-the-badge&logo=Node.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-F4F1F1?style=flat&logo=JavaScript)
+![HTML](https://img.shields.io/badge/HTML-F4F1F1?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-F4F1F1?style=flat&logo=CSS3)
+![React](https://img.shields.io/badge/React-F4F1F1?style=flat&logo=React)
+![Git](https://img.shields.io/badge/Git-F4F1F1?style=flat&logo=Git)
+![Webpack](https://img.shields.io/badge/Webpack-F4F1F1?style=flat&logo=Webpack)
+![Mongodb](https://img.shields.io/badge/Mongodb-F4F1F1?style=flat&logo=Mongodb)
+![Node.js](https://img.shields.io/badge/Node.js-F4F1F1?style=flat&logo=Node.js)
 
-#### Контакты 
+#### Контакты: 
 
-[![VK](https://img.shields.io/badge/VK-F4F1F1?style=for-the-badge&logo=VK)](https://vk.com/im?peers=36056993_c64_253561357)
-[![Telegram](https://img.shields.io/badge/Telegram-F4F1F1?style=for-the-badge&logo=Telegram)](https://t.me/Beer_Bear)
-[![Instagram](https://img.shields.io/badge/Instagram-F4F1F1?style=for-the-badge&logo=Instagram)](https://www.instagram.com/n1kko_00)
+[![VK](https://img.shields.io/badge/VK-F4F1F1?style=flat&logo=VK)](https://vk.com/im?peers=36056993_c64_253561357)
+[![Telegram](https://img.shields.io/badge/Telegram-F4F1F1?style=flat&logo=Telegram)](https://t.me/Beer_Bear)
+[![Instagram](https://img.shields.io/badge/Instagram-F4F1F1?style=flat&logo=Instagram)](https://www.instagram.com/n1kko_00)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeerBear0&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeerBear0&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
