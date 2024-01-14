@@ -1,11 +1,12 @@
 ![Header](https://github.com/BeerBear0/BeerBear0/blob/master/assets/ImageFromGit.jpg)
 
-## Привет!</br> Меня зовут Никита Чернов и я начинающий фронтенд разработчик. Мне нравится кодить и читать научную фантастику. 
+## Привет!</br> Меня зовут Никита Чернов и я фронтенд разработчик. Мне нравится кодить и читать научную фантастику. 
 
 
 ### Мой стек:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F4F1F1?style=flat&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/JavaScript-F4F1F1?style=flat&logo=TypeScript)
 ![HTML](https://img.shields.io/badge/HTML-F4F1F1?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-F4F1F1?style=flat&logo=CSS3)
 ![React](https://img.shields.io/badge/React-F4F1F1?style=flat&logo=React)
